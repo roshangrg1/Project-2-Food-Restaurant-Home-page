@@ -1,5 +1,5 @@
 
-# Project-2 Food Restaurant Home page
+# Project-2 Food Restaurant Home page [go-live](https://food-p-02.netlify.app/)
 
 This is simple website of home page. In this project i have only used core css.
 
